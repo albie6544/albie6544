@@ -12,6 +12,6 @@ This is my current GitHub statistical information...interesting.
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=aproxus&repo=ripperoni&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" />
 </a>
 
-<a href="https://github.com/aproxus/ripperoni">
+<a href="https://github.com/aproxus/addressio">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=aproxus&repo=addressio&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" />
 </a>
