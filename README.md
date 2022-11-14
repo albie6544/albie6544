@@ -1,9 +1,10 @@
 ### Hello, weary traveler...
 
-I'm Albie! I enjoy coding fun, and sometimes useful, projects with my friends.
+I'm Albie! I enjoy coding fun (and occasionally useful) projects with my friends.
 
-### Statistics
+### Snake!
 
-This is my current GitHub statistical information...interesting.
+Yummy commits...
 
-<img src="https://github-readme-stats.vercel.app/api?username=albie6544&count_private=true&show_icons=true&theme=dark" />
+![GitHub Snake Light](github-snake.svg#gh-light-mode-only)
+![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
