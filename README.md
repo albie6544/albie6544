@@ -6,5 +6,5 @@ I'm Albie! I enjoy coding fun (and occasionally useful) projects with my friends
 
 Yummy commits...
 
-![GitHub Snake Light](github-snake.svg#gh-light-mode-only)
-![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
+![GitHub Snake Light](https://github.com/albie6544/albie6544/blob/output/github-contribution-grid-snake.gif#gh-light-mode-only)
+![GitHub Snake dark](https://github.com/albie6544/albie6544/blob/output/github-contribution-grid-snake.svg#gh-dark-mode-only)
